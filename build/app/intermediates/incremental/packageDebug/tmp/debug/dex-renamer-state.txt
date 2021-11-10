@@ -1,0 +1,4 @@
+#Wed Nov 10 13:17:57 COT 2021
+base.0=/Users/fhizxdev/Documents/REPOSITORIOS/proyect_template/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
